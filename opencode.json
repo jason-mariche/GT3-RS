@@ -1,5 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
+  "plugin": ["opencode-chrome-devtools"],
   "mcp": {
     "MCP_DOCKER": {
       "type": "local",
